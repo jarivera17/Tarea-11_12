@@ -11,8 +11,46 @@ Capítulos: 11 y 12
   ## 1. OBJETIVOS
 
   ## 2. MARCO TEÓRICO
-
   
+  ![1](https://user-images.githubusercontent.com/116693260/212774119-ca50a2e1-8423-41fb-9ee4-19ef4810d217.jpg)
+
+  ![2](https://user-images.githubusercontent.com/116693260/212774124-bdf1fe0e-b980-4cb3-8cd2-f8e6ad4d59f2.jpg)
+  
+  ![3](https://user-images.githubusercontent.com/116693260/212774126-6f368ecf-a3fb-4453-a5d4-1d996f002d71.jpg)
+
+  ![4](https://user-images.githubusercontent.com/116693260/212774129-e88b85b6-1ec9-4edb-bffc-58a43ee40afa.jpg)
+  
+  ![5](https://user-images.githubusercontent.com/116693260/212774130-e137cb8c-b95e-4a8e-afdb-cd8a8252ac20.jpg)
+  
+  ![6](https://user-images.githubusercontent.com/116693260/212774135-18f49616-c7ce-4f07-a9a6-f329e18d8f39.jpg)
+  
+  ![7](https://user-images.githubusercontent.com/116693260/212774137-45902676-2f1c-401b-a668-2f92e8f99533.jpg)
+
+  ![8](https://user-images.githubusercontent.com/116693260/212774138-d6227b45-0858-4342-b836-f188fef9b995.jpg)
+
+  ![9](https://user-images.githubusercontent.com/116693260/212774141-f7937166-994a-4e80-acb5-2bc5f3bfb5a2.jpg)
+
+  ![10](https://user-images.githubusercontent.com/116693260/212774144-0d58ec0d-a549-42e2-bd26-8ef8b695dd3d.jpg)
+
+  ![11](https://user-images.githubusercontent.com/116693260/212774149-4c0220b1-4e2b-44ce-b379-0fd592c4c76f.jpg)
+
+  ![12](https://user-images.githubusercontent.com/116693260/212774150-ec14a402-b02c-428c-ad7b-3fe1bec1b21f.jpg)
+
+  ![13](https://user-images.githubusercontent.com/116693260/212774154-12924171-b4ac-4913-8f97-7294a74b1351.jpg)
+
+  ![14](https://user-images.githubusercontent.com/116693260/212774157-a63e5d2e-9f6a-461f-9400-4cd9fdbc1560.jpg)
+
+  ![15](https://user-images.githubusercontent.com/116693260/212774159-65a34d1c-820a-43de-a8bc-44e663e930da.jpg)
+
+  ![16](https://user-images.githubusercontent.com/116693260/212774162-78bb73ed-4657-4422-a747-a7114f08c485.jpg)
+
+  ![17](https://user-images.githubusercontent.com/116693260/212774165-951f2fe5-f6bd-4692-b559-a349a4b56e81.jpg)
+
+  ![18](https://user-images.githubusercontent.com/116693260/212774171-8e2baf75-7c6c-4170-8abd-5e8a6da87bd5.jpg)
+
+  ![19](https://user-images.githubusercontent.com/116693260/212774172-a8fb3244-87ba-411a-bcc0-165a7abfa5ed.jpg)
+
+  ![20](https://user-images.githubusercontent.com/116693260/212774174-97ad0b7d-a832-4118-88fd-863a0c6e690b.jpg)
 
   ## 3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
