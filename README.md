@@ -9,6 +9,23 @@ Docente : Ing. Darwin Alulema
 Capítulos: 11 y 12
 
   ## 1. OBJETIVOS
+  
+  OBJETIVO GENERAL
+  
+  OBJETIVOS ESPECÍFICOS
+  
+  * Identificar una forma de onda sinusoidal y medir sus características.
+  * Conocer y estudiar cómo se generan las ondas seno.
+  * Determinar los diversos valores de voltaje y corriente de una onda seno.
+  * Analizar matemáticamente una forma de onda sinusoidal.
+  * Utilizar un fasor para representar una onda seno.
+  * Aplicar las leyes de circuito básicas a circuitos de ca resistivos
+  * Determinar voltajes totales que tienen tanto componentes de ca como de cd.
+  * Identificar las características de formas de onda no sinusoidales básicas.
+  * Aprender acerca del uso del osciloscopio para medir formas de onda.
+  * Conocer la construcción básica y las características de un capacitor, así también, analizar diversos tipos de capacitores.
+  * Analizar capacitores en serie y capacitores en paralelo.
+  * Analizar circuitos capacitivos de ca, 
 
   ## 2. MARCO TEÓRICO
   
@@ -292,3 +309,24 @@ SECCIÓN 12–1 El capacitor básico
   54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula? 
 
   ![C54](https://user-images.githubusercontent.com/116693260/212771267-22326d39-47f6-4f07-8eb8-8856f290a322.jpg)
+
+## 4. VIDEO
+
+## 5. CONCLUSIONES
+
+  * Se ha determinado cuál es el periodo y la frecuencia de una onda sinusoidal, además de la relación existente entre frecuencia y periodo.
+  * Se ha examinado la operación básica de un generador de ca, los factores que afectan la frecuencia en generadores de ca y los factores que afectan el voltaje en generadores de ca.
+  * En cuanto a los diferentes valores de voltaje y corriente de una onda seno, se ha identificado:  el valor instantáneo en cualquier punto, el valor pico, el valor pico a pico, el término rms, además de conocer que el valor promedio siempre es de cero en un ciclo completo, y finalmente determinar el valor promedio en medio ciclo.
+  * En torno al análisis matemático de una forma de onda sinusoidal, se ha conocido y estudiado su fórmula matemática, con la cual, es posible determinar los valores instantáneos de la onda.
+  *  Se ha estudiado la definición de "fasor", además de: conocer cómo están relacionados los fasores con la fórmula de la onda seno, trazar un diagrama fasorial y Analizar la velocidad angular.
+  * Es posible aplicar la ley de Ohm a circuitos resistivos con fuentes de ca, y, así también, aplicar las leyes de voltaje y corriente de Kirchhoff y determinar la potencia en circuitos de ca resistivos.
+  * Se ha analizado las propiedades de una forma de onda pulsante, por otra parte, se ha aprendido: el término ciclo de trabajo, las propiedades de formas de onda triangulares y de diente de sierra.
+  * Se ha reconocido los controles de un osciloscopio común, y aprendido a:  medir la amplitud de una forma de onda y medir el periodo y la frecuencia de una forma de onda.
+  * Se ha conocido la forma en la cual guarda energía un capacitor; el término capacitancia y formular su unidad; también se ha aprendido: a analizar el voltaje nominal y el coeficiente de temperatura, la dispersión capacitiva, y cómo afectan las características físicas a la capacitancia.
+  * Existen diversos tipos de capacitores tales como: los capacitores de mica, cerámica, película plástica, electrolíticos, y capacitores variables, por otra parte se ha aprendido a identificar la rotulación de un capacitor y analizar la medición de capacitancia.
+  * La forma de análisis de capacitores en serie y en paralalo, es análoga al análisis de circuitos resistivos en serie y en paralelo.
+  * Se ha determinado por qué un capacitor provoca cierto desfasamiento entre voltaje y corriente, así también, se ha aprendido a determinar el valor de reactancia capacitiva en un circuito dado.
+  
+## 6. BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion
