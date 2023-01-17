@@ -12,6 +12,8 @@ Capítulos: 11 y 12
   
   OBJETIVO GENERAL
   
+  * Estudiar y comprender la base teórica y a su vez, resolver los ejercicios de aplicación de los capítulos 11 y 12 del libro "Principios de circuitos eléctricos" de Floyd, a los cuales corresponden los temas: "Introducción a la corriente y al voltaje alternos" y "Capacitores", analizando cada subtema respectivo, en lo que involucra: definiciones, fórmulas y aplicaciones.
+  
   OBJETIVOS ESPECÍFICOS
   
   * Identificar una forma de onda sinusoidal y medir sus características.
