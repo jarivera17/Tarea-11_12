@@ -312,6 +312,8 @@ SECCIÓN 12–1 El capacitor básico
 
 ## 4. VIDEO
 
+https://uespe-my.sharepoint.com/✌️/g/personal/jarivera17_espe_edu_ec/EcecmXWxeKtOg49XI5XNyXUBQGE_-TMLM2fmoL0fXI_NZA?e=c2pGjp
+
 ## 5. CONCLUSIONES
 
   * Se ha determinado cuál es el periodo y la frecuencia de una onda sinusoidal, además de la relación existente entre frecuencia y periodo.
